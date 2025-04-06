@@ -1,1 +1,3 @@
 # Python_minor_project
+I've done some minor projects in python so far...
+So here's the repository of my minor projects!..
